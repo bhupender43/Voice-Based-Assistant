@@ -8,7 +8,7 @@ PROJECT:DESIGN AND IMPLEMENTATION OF VOICE BASED PERSONAL ASSISTANT
 
 Follow this steps in order to execute the Python Program.
 
-1. Connect the Laptop to Internet.
+1. Connect the Laptop/Machine to Internet.
 
 2. Now open jarvis.py file in Idle or command Prompt and run it.
 
